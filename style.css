@@ -1,0 +1,45 @@
+body{
+    background-color: slategrey;
+    text-align: center;
+}
+#button{
+    height: 100px; width: 100 px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+#button{
+    height: 40px;
+    width: 150px;
+}
+.text{
+    text-align: center;
+    
+}
+.from{
+    margin: 10px;
+}
+.button{
+    margin:10px ;
+}
+.heading{
+    background-color: coral;
+}
+#flag{
+    display:list-item;
+    justify-content:center;
+    align-items:center;
+    
+    
+}
+.from{
+    
+
+}
+.to{
+    
+}
